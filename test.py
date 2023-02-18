@@ -4,3 +4,7 @@ print(e)
 print('cassandra')
 for i in range(1,101):
     print(i)
+calc = int(input())
+lucl = int(input())
+print(calc+lucl)
+print(calc*lucl)
